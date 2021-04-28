@@ -37,7 +37,7 @@
         android:id="@+id/btnBmi"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="288dp"
+        android:layout_marginBottom="296dp"
         android:text="Bmi 계산"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
